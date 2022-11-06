@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appTo Do Workspace">7fe17fe097cb11105eecf9271153afc1</applicability>
+        <list display_value="All">00f1bfe097cb11105eecf9271153af18</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 01:56:36</sys_created_on>
+        <sys_id>c0f1bfe097cb11105eecf9271153af1e</sys_id>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_804143_to_do">3728cca2977a11105eecf9271153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3728cca2977a11105eecf9271153af88</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_c0f1bfe097cb11105eecf9271153af1e</sys_update_name>
+    </sys_ux_applicability_m2m_list>
+</record_update>

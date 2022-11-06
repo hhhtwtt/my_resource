@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="To Do Workspace">c3e13fe0c9cb1110d962569abf29958c</dashboard>
+        <group/>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 01:56:35</sys_created_on>
+        <sys_id>bbe17fe097cb11105eecf9271153afe8</sys_id>
+        <sys_name>c3e13fe0c9cb1110d962569abf29958c</sys_name>
+        <sys_package display_value="To Do" source="x_804143_to_do">3728cca2977a11105eecf9271153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3728cca2977a11105eecf9271153af88</sys_scope>
+        <sys_update_name>par_dashboard_permission_bbe17fe097cb11105eecf9271153afe8</sys_update_name>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </par_dashboard_permission>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="To Do Workspace Config">c3e13fe0c0cb111041e39ac7815d6793</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Compose Email">b07e59fe7743501033809b306910610c</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Draft Email Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=sys_email_draft</screen_condition>
+        <screen_type display_value="Record">87e13fe06acb1110e8dd9d912046fe8e</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 01:56:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c7e13fe0becb1110e80fa5238c0cf28b</sys_id>
+        <sys_name>Draft Email Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_804143_to_do">3728cca2977a11105eecf9271153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3728cca2977a11105eecf9271153af88</sys_scope>
+        <sys_update_name>sys_ux_screen_c7e13fe0becb1110e80fa5238c0cf28b</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c7e13fe0becb1110e80fa5238c0cf28b"/>
+</record_update>

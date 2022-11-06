@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Starter Workspace Theme</name>
+        <parent display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</parent>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 01:56:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4be13fe056cb1110209bc33b9650fc8d</sys_id>
+        <sys_name>Starter Workspace Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_804143_to_do">3728cca2977a11105eecf9271153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3728cca2977a11105eecf9271153af88</sys_scope>
+        <sys_update_name>sys_ux_theme_4be13fe056cb1110209bc33b9650fc8d</sys_update_name>
+        <theme/>
+    </sys_ux_theme>
+</record_update>

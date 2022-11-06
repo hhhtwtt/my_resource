@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id/>
+        <limit>5</limit>
+        <order>200</order>
+        <section_header>Popular searches</section_header>
+        <suggestion_type>Popular Search Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 01:56:33</sys_created_on>
+        <sys_id>07e13fe0e2cb1110c50638e1cce3da8f</sys_id>
+        <sys_name>Popular Search Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="To Do" source="x_804143_to_do">3728cca2977a11105eecf9271153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3728cca2977a11105eecf9271153af88</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_07e13fe0e2cb1110c50638e1cce3da8f</sys_update_name>
+    </sys_suggestion_reader_group>
+</record_update>

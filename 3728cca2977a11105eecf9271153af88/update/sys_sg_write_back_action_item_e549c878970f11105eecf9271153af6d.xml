@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit</name>
+        <parameter_screen/>
+        <query_condition table="x_804143_to_do_to_do">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 03:38:34</sys_created_on>
+        <sys_id>e549c878970f11105eecf9271153af6d</sys_id>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="To Do" source="x_804143_to_do">3728cca2977a11105eecf9271153af88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3728cca2977a11105eecf9271153af88</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_e549c878970f11105eecf9271153af6d</sys_update_name>
+        <table>x_804143_to_do_to_do</table>
+        <template>assigned_to={{My To Dos assigned_to}}^due_date={{My To Dos due_date}}^importance={{My To Dos importance}}^progress={{My To Dos progress}}^project={{My To Dos project}}^send_reminder={{My To Dos send_reminder}}^to_do_item={{My To Dos to_do_item}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e549c878970f11105eecf9271153af6d"/>
+</record_update>
